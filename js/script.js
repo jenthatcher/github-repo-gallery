@@ -1,5 +1,5 @@
 const overview = document.querySelector(".overview");
-const username = "redrambles";
+const username = "jenthatcher";
 const repoList = document.querySelector(".repo-list");
 
 const gitUserInfo = async function () {
